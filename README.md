@@ -72,7 +72,5 @@ Make your moves and enjoy real-time gameplay
 
 ## 🔮 Future Improvements
 
-- Add player authentication & profiles
 - Implement a timer for competitive matches
-- Enable spectators to watch live games
 - Deploy frontend (Netlify/Vercel) & backend (Render/Heroku) for a live demo
