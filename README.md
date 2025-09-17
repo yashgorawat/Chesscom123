@@ -32,16 +32,19 @@ Built with **React.js (frontend)**, **TypeScript + WebSockets (backend)**, and *
 ---
 
 ## How to get started
--for backend
-  cd backend
-  npm install
-  node dist/index.js
+### Run Backend
+```bash
+cd backend
+npm install
+node dist/index.js
+```
 
-- for frontend
-  cd frontend
-  npm install
-  npm run dev
-
+### for frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
 ---
 
 ## Play
