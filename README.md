@@ -23,10 +23,11 @@ Built with **React.js (frontend)**, **TypeScript + WebSockets (backend)**, and *
 ---
 
 ## 📂 Project Structure
-chesscom123/
-│── backend1/ # TypeScript server with WebSocket logic
-│── frontend/ # React.js UI
-│── README.md
+
+- chesscom123/
+- │── backend1/ 
+- │── frontend/ 
+- │── README.md
 
 ---
 
@@ -50,27 +51,25 @@ Each tab acts as a different player
 
 Make your moves and enjoy real-time gameplay
 
-##🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
-Hands-on experience with full-stack development
+- Hands-on experience with full-stack development
+- Implemented real-time systems using WebSockets
+- Applied modular architecture for clean, maintainable code
+- Understood multiplayer game design & synchronization
 
-Implemented real-time systems using WebSockets
+---
 
-Applied modular architecture for clean, maintainable code
-
-Understood multiplayer game design & synchronization
-
-##📸 Screenshots
+## 📸 Screenshots
 
 <img width="1898" height="698" alt="image" src="https://github.com/user-attachments/assets/abbd86b0-0a60-4a22-992d-892fa1e18788" />
 <img width="1898" height="651" alt="image" src="https://github.com/user-attachments/assets/bdbda204-3e69-4de8-ad49-5c3880786afb" />
 
-##🔮 Future Improvements
+---
 
-Add player authentication & profiles
+## 🔮 Future Improvements
 
-Implement a timer for competitive matches
-
-Enable spectators to watch live games
-
-Deploy frontend (Netlify/Vercel) & backend (Render/Heroku) for a live demo
+- Add player authentication & profiles
+- Implement a timer for competitive matches
+- Enable spectators to watch live games
+- Deploy frontend (Netlify/Vercel) & backend (Render/Heroku) for a live demo
